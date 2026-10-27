@@ -1,7 +1,9 @@
-# 你好，我是刘越大王 👋 / Hi, I'm Liu Yue
+# 你好，我是lydw 👋 / Hi, I'm Ly king
 
 > 武汉纺织大学 · 信息与计算科学（2020-2024）
+
 > 华中师范大学 · 计算机技术硕士（2024–2027）
+
 > *Building production-grade LLM Agents & RAG systems.*
 
 **不做 Demo 级的 Agent，做能在产线上跑的 Agent。** 两段产线实战：🤖 具身智能银行网点机器人（广电运通 GRG）× 🚗 商用车主动安全多 Agent 平台（魔视智能），均从 0 → 1 独立负责核心模块的架构设计与落地。
