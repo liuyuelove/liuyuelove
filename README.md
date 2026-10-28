@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="不努力日记 · 大学生歪脖 coding" width="100%" />
+  <img src="./assets/banner.png" alt="不努力日记 · 用有限的上下文，逼近无限的世界" width="100%" />
 </div>
 
 <div align="center">
 
 ### 你好，我是不努力日记 👋
 
-大学生 · 歪脖 coding　|　在产线上写 Agent，在日记里记 Bug
+**Agent 工程师**　|　用有限的上下文，逼近无限的世界。
 
 </div>
 
-- 🔭 **现在在做**：生产级 LLM Agent / RAG / 多智能体编排
+- 🔭 **现在在做**：Agent Runtime · 长任务可靠性 · 多智能体编排
 - 🏭 **两段产线实战**：🤖 具身智能银行网点机器人（广电运通 GRG）× 🚗 商用车主动安全多 Agent 平台（魔视智能）
 - 🧠 **正在做**：LocalDev Agent · 三层上下文压缩 · Human-in-the-Loop
 - 📄 **一篇论文**：Diff-Ensemble，ACM CCF-A 在审
 
-我关心的是：**Agent 怎么在真实业务里稳定地跑起来**——上下文怎么压缩、工具怎么评测、流程怎么恢复、人在什么位置介入。
+我关心的是：**Agent 怎么在有限的上下文里，稳定地理解、行动与恢复**——上下文怎么压缩、工具怎么评测、流程怎么恢复、人在什么位置介入。
 
 > 不做 Demo 级 Agent，做能在产线上跑的 Agent。
 
@@ -23,23 +23,34 @@
 
 ## 🚀 精选项目
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-<h3>🤖 robot-agent-runtime-docs</h3>
+<h3>⭐ robot-agent-runtime-docs　<img src="https://img.shields.io/badge/Featured-E07A2E?style=flat-square" /></h3>
 
-<p>具身智能银行网点机器人的「大脑」：分层 Agent Runtime、Robot State 状态机与可回放的评测框架。</p>
+<p></b> 具身智能银行网点机器人的「大脑」：把 Agent 从「会聊天」拆成可替换、可观测、可评测的 Runtime。</p>
+
+<blockquote>
+<p><b>为什么是它：</b>把机器人大脑拆成可替换的 Runtime：编排、状态、工具、适配器、评测各自独立，目标是让它真正跑到网点里。</p>
+</blockquote>
 
 <p>
 <img src="https://img.shields.io/badge/LangGraph-4F5D2F?style=flat-square&logo=langgraph&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-4F5D2F?style=flat-square" />
 <img src="https://img.shields.io/badge/Robot%20State-1A2019?style=flat-square" />
+<img src="https://img.shields.io/badge/Agent%20Eval-1A2019?style=flat-square" />
+<img src="https://img.shields.io/badge/Multimodal-6E6A60?style=flat-square" />
 </p>
 
 <a href="https://github.com/liuyuelove/robot-agent-runtime-docs"><b>查看项目 →</b></a>
 
 </td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
 <h3>🚗 aftermarket-perception-agent</h3>
@@ -55,14 +66,11 @@
 <a href="https://github.com/liuyuelove/aftermarket-perception-agent"><b>查看项目 →</b></a>
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 <h3>🧩 LocalDev Agent　<img src="https://img.shields.io/badge/Open%20Source-4F5D2F?style=flat-square&logo=github&logoColor=white" /></h3>
 
-> 面向长任务的多 Agent 协作框架：三层上下文压缩、DAG 持久化任务、异步协作协议与 Working/Idle 状态机，支持全链路可观测与断电恢复。
->
-> **一句话：Agent 跑得久，也跑得回来。**
+<p>面向长任务的多 Agent 协作框架：三层上下文压缩、DAG 持久化任务、异步协作协议与 Working/Idle 状态机，支持全链路可观测与断电恢复。</p>
 
 <p>
 <img src="https://img.shields.io/badge/Multi--Agent-4F5D2F?style=flat-square" />
@@ -71,7 +79,13 @@
 <img src="https://img.shields.io/badge/Observability-6E6A60?style=flat-square" />
 </p>
 
-<a href="https://github.com/liuyuelove/localdev_agent"><b>查看项目 →</b></a>　<sub>如果对你有帮助，欢迎 Star ⭐</sub>
+<p><b>一句话：Agent 跑得久，也跑得回来。</b></p>
+
+<a href="https://github.com/liuyuelove/localdev_agent"><b>查看项目 →</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -113,6 +127,8 @@
 ---
 
 ## 🧰 技术栈
+
+> **当前重点**：Agent Runtime · 长任务可靠性 · 上下文压缩
 
 **Agent & LLM**
 
