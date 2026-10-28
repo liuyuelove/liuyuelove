@@ -12,7 +12,7 @@
 
 - 🔭 **现在在做**：生产级 LLM Agent / RAG / 多智能体编排
 - 🏭 **两段产线实战**：🤖 具身智能银行网点机器人（广电运通 GRG）× 🚗 商用车主动安全多 Agent 平台（魔视智能）
-- 🧠 **正在研究**：Agent Runtime · 三层上下文压缩 · Human-in-the-Loop
+- 🧠 **正在做**：LocalDev Agent · 三层上下文压缩 · Human-in-the-Loop
 - 📄 **一篇论文**：Diff-Ensemble，ACM CCF-A 在审
 
 我关心的是：**Agent 怎么在真实业务里稳定地跑起来**——上下文怎么压缩、工具怎么评测、流程怎么恢复、人在什么位置介入。
@@ -58,7 +58,7 @@
 </tr>
 </table>
 
-<h3>🧩 LocalDev Agent　<img src="https://img.shields.io/badge/WIP-6E6A60?style=flat-square" /></h3>
+<h3>🧩 LocalDev Agent　<img src="https://img.shields.io/badge/Open%20Source-4F5D2F?style=flat-square&logo=github&logoColor=white" /></h3>
 
 > 面向长任务的多 Agent 协作框架：三层上下文压缩、DAG 持久化任务、异步协作协议与 Working/Idle 状态机，支持全链路可观测与断电恢复。
 >
@@ -68,9 +68,10 @@
 <img src="https://img.shields.io/badge/Multi--Agent-4F5D2F?style=flat-square" />
 <img src="https://img.shields.io/badge/DAG-5B7C8C?style=flat-square" />
 <img src="https://img.shields.io/badge/Context%20Compression-1A2019?style=flat-square" />
+<img src="https://img.shields.io/badge/Observability-6E6A60?style=flat-square" />
 </p>
 
-<sub>代码整理中，开源后补链接。</sub>
+<a href="https://github.com/liuyuelove/localdev_agent"><b>查看项目 →</b></a>　<sub>如果对你有帮助，欢迎 Star ⭐</sub>
 
 ---
 
