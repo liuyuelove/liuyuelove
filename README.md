@@ -6,7 +6,10 @@
 
 ### 你好，我是不努力日记 👋
 
-**Agent 工程师**　|　用有限的上下文，逼近无限的世界。
+Agent 工程实录　|　在产线上写 Agent，在日记里记 Bug　
+      
+
+<sub>📔 用有限的上下文，逼近无限的世界。</sub>
 
 </div>
 
@@ -29,7 +32,7 @@
 
 <h3>⭐ robot-agent-runtime-docs　<img src="https://img.shields.io/badge/Featured-E07A2E?style=flat-square" /></h3>
 
-<p></b> 具身智能银行网点机器人的「大脑」：把 Agent 从「会聊天」拆成可替换、可观测、可评测的 Runtime。</p>
+<p></b> 一台运行在线下服务场景里的机器人：轮式底盘、业务屏、数字人、环形麦阵。 一个 LLM Agent 站在中间，决定"现在该说什么、该调哪个能力、该把机器带到哪"。</p>
 
 <blockquote>
 <p><b>为什么是它：</b>把机器人大脑拆成可替换的 Runtime：编排、状态、工具、适配器、评测各自独立，目标是让它真正跑到网点里。</p>
@@ -182,6 +185,19 @@
 ---
 
 <details>
+<summary><b>📔 不努力日记</b></summary>
+
+<br/>
+
+- **2026.10** · LocalDev Agent 开源。
+- **2026.10** · robot-agent-runtime-docs 成为首页主推。
+- **今天** · 世界很大，上下文有限，Agent 还在产线上跑。
+
+</details>
+
+---
+
+<details>
 <summary><b>🎓 教育 &amp; 其他经历</b></summary>
 
 <br/>
@@ -205,5 +221,5 @@
 ---
 
 <div align="center">
-<sub>不努力是假的，写 Agent 是真的。 · 如果这些项目对你有帮助，欢迎 Star ⭐</sub>
+<sub>📔 不努力日记｜不努力是假的，写 Agent 是真的。 · 如果这些项目对你有帮助，欢迎 Star ⭐</sub>
 </div>
